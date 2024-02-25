@@ -1,16 +1,17 @@
-[  {
-    "id": 155,
-    "type": "New Tournament",
+[
+      {
+    "id": 154,
+    "type": "Testing Purposes",
     "tournament_name": "Icc",
-    "team_a_name": "New A",
-    "team_a_logo": "New A logo",
-    "team_b_name": "New B",
-    "team_b_logo": "New B logo",
-    "link_id": "1708867853715",
+    "team_a_name": "Test A",
+    "team_a_logo": "testA Logo",
+    "team_b_name": "Test B",
+    "team_b_logo": "test B logo",
+    "link_id": "1708799060264",
     "time": "07.12.2023, 18:30",
     "server": "Link 1",
     "startTime": 1708797600000,
-    "endTime": 1709161200000,
+    "endTime": 1709143200000,
     "key_type": 0,
     "key_value": null,
     "order": 0,
@@ -19,4 +20,5 @@
     "created_at": null,
     "updated_at": null,
     "flussonic": 0
-  }]
+  }
+]
